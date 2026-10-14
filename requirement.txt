@@ -1,0 +1,23 @@
+Dark theme - Single page application
+A landing page of the website which has the following:
+    .Navbar - Home, Packages - will redirect to the contact page for now, Our Work and Contact us, footer
+    .Hero Section which will have the logo on the right and text on the left, will animate the logo, reference attached
+    .Packages section - having four packages, with Package name, what each Package includes and price range. I will attach the packages content later.
+    .Contact us section - user will have a form and later team will contact them 
+    . footer will company address, links, privacy policy, cookies consent and terms and conditions
+    for privacy and terms - use this reference for buidling it - https://skiper-ui.com/v1/skiper60, npx shadcn add @skiper-ui/skiper60
+
+
+styling ideas:
+https://threeui.com/landing-pages/kage-landing-page - I have attached the logo, and want animation like the refernce 
+.
+
+https://threeui.com/backgrounds/predictive-arc - between two section the purple colour
+
+for animation ideas refer: https://animejs.com/ - for animation 
+
+for packages 
+npx shadcn add @skiper-ui/skiper80 - for packages https://skiper-ui.com/v1/skiper80
+
+https://skiper-ui.com/v1/skiper76 - design idea for the project / our work npx shadcn add @skiper-ui/skiper76
+

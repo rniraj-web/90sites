@@ -1,0 +1,40 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 220 220" role="img" aria-label="Logo">
+  <defs><clipPath id="globe"><circle cx="110" cy="186" r="17"/></clipPath></defs>
+  <!-- ring, open at the top for the rocket and at the bottom for the globe -->
+  <g fill="none" stroke-width="7" stroke-linecap="round">
+    <path d="M84.69 42.44A74 74 0 0 0 37.12 124.85" stroke="#f39c12"/>
+    <path d="M37.12 124.85A74 74 0 0 0 84.69 181.56M135.31 181.56A74 74 0 0 0 174.09 149" stroke="#1e5fa8"/>
+    <path d="M174.09 149A74 74 0 0 0 135.31 42.44" stroke="#3ba55c"/>
+  </g>
+  <!-- tool icons orbiting the top -->
+  <g fill="none" stroke="#1e5fa8" stroke-width="3.5" stroke-linecap="round" stroke-linejoin="round">
+    <g transform="translate(24 78) rotate(40)"><path d="M0-15v9" stroke-width="4"/><rect x="-3.5" y="-6" width="7" height="4" rx="1" fill="#1e5fa8" stroke="none"/><path d="M-3.5-2h7c0 6-2 10-3.5 13-1.5-3-3.5-7-3.5-13z" fill="#f39c12" stroke="none"/></g>
+    <path d="M44.4 37.6l-6 6 6 6M52.4 37.6l6 6-6 6M50.4 35.6l-4 16"/>
+    <path d="M161.6 49.6a6 6 0 0 1 1-12a8 8 0 0 1 15-1a6 6 0 0 1 4 13z"/>
+    <path d="M171.6 52.6v-11m-4 4l4-4 4 4" stroke="#3ba55c" stroke-width="3"/>
+    <circle cx="194.5" cy="78.5" r="6"/><path d="M199 83l6 6" stroke-width="4.5"/>
+  </g>
+  <!-- laptop -->
+  <rect x="58" y="72" width="104" height="66" rx="7" fill="#fff" stroke="#1e5fa8" stroke-width="6"/>
+  <path d="M46 142h128l6 8q2 6-4 6H44q-6 0-4-6z" fill="#1e5fa8"/>
+  <rect x="98" y="146" width="24" height="4" rx="2" fill="#fff"/>
+  <!-- screen: gear, code, growth arrow -->
+  <g transform="translate(78 92)" fill="#f39c12"><rect x="-2" y="-10" width="4" height="5" rx="1" transform="rotate(0)"/><rect x="-2" y="-10" width="4" height="5" rx="1" transform="rotate(45)"/><rect x="-2" y="-10" width="4" height="5" rx="1" transform="rotate(90)"/><rect x="-2" y="-10" width="4" height="5" rx="1" transform="rotate(135)"/><rect x="-2" y="-10" width="4" height="5" rx="1" transform="rotate(180)"/><rect x="-2" y="-10" width="4" height="5" rx="1" transform="rotate(225)"/><rect x="-2" y="-10" width="4" height="5" rx="1" transform="rotate(270)"/><rect x="-2" y="-10" width="4" height="5" rx="1" transform="rotate(315)"/><circle r="6.8"/><circle r="2.6" fill="#fff"/></g>
+  <path d="M95 84l-4 4 4 4M103 84l4 4-4 4" fill="none" stroke="#1e5fa8" stroke-width="2.6" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M68 126l18-14 12 8 28-26M114 94h13v13" fill="none" stroke="#3ba55c" stroke-width="5" stroke-linecap="round" stroke-linejoin="round"/>
+  <!-- rocket breaking out of the screen -->
+  <g transform="translate(122 50) rotate(35) scale(1.35)" stroke="#1e5fa8" stroke-width="3" stroke-linejoin="round">
+    <path d="M-5 15q5 18 10 0z" fill="#f39c12" stroke="none"/>
+    <path d="M-8 4l-9 12 9-2zM8 4l9 12-9-2z" fill="#3ba55c"/>
+    <path d="M0-26c10 10 11 26 8 40H-8c-3-14-2-30 8-40z" fill="#fff"/>
+    <circle cy="-6" r="5" fill="#3ba55c"/>
+  </g>
+  <!-- three-colour globe where the old badge sat -->
+  <g clip-path="url(#globe)">
+    <rect x="93" y="169" width="17" height="34" fill="#1e5fa8"/>
+    <rect x="110" y="169" width="17" height="34" fill="#f39c12"/>
+    <ellipse cx="110" cy="186" rx="7.5" ry="17" fill="#3ba55c"/>
+    <path d="M93 179h34M93 193h34" stroke="#fff" stroke-width="2"/>
+  </g>
+  <circle cx="110" cy="186" r="17" fill="none" stroke="#fff" stroke-width="2"/>
+</svg>

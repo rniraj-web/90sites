@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" role="img" aria-label="Logo">
+  <defs><clipPath id="g"><circle cx="30" cy="40" r="9"/></clipPath></defs>
+  <path d="M14 60V26a16 16 0 0 1 32 0v34z" fill="#065f46"/>
+  <path d="M18.5 60V26.5a11.5 11.5 0 0 1 23 0V60z" fill="#a7f3d0"/>
+  <circle cx="30" cy="40" r="9" fill="#10b981"/>
+  <g fill="none" stroke="#a7f3d0" stroke-width="1.8" clip-path="url(#g)"><ellipse cx="30" cy="40" rx="3.8" ry="9"/><path d="M20 40h20M20 35.5h20M20 44.5h20"/></g>
+  <path d="M41.5 58V24l14-7v41z" fill="#047857"/>
+  <circle cx="45.5" cy="42" r="1.8" fill="#a7f3d0"/>
+  <path d="M8 60h48" stroke="#065f46" stroke-width="4" stroke-linecap="round"/>
+</svg>
